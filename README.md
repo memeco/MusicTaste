@@ -1,4 +1,4 @@
 MusicTaste
 ==========
 
-Music Taste colaborative research
+Music Taste collaborative research
